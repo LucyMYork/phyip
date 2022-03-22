@@ -199,11 +199,11 @@
       </xilinx:taxonomies>
       <xilinx:displayName>sevenseg</xilinx:displayName>
       <xilinx:definitionSource>package_project</xilinx:definitionSource>
-      <xilinx:coreRevision>1</xilinx:coreRevision>
+      <xilinx:coreRevision>2</xilinx:coreRevision>
       <xilinx:upgrades>
         <xilinx:canUpgradeFrom>user.org:user:LED_Display:1.0</xilinx:canUpgradeFrom>
       </xilinx:upgrades>
-      <xilinx:coreCreationDateTime>2022-03-21T19:59:28Z</xilinx:coreCreationDateTime>
+      <xilinx:coreCreationDateTime>2022-03-21T20:50:38Z</xilinx:coreCreationDateTime>
       <xilinx:tags>
         <xilinx:tag xilinx:name="ui.data.coregen.df@18ff34cb_ARCHIVE_LOCATION">/home/physics/my_IP/seven_seg_display</xilinx:tag>
         <xilinx:tag xilinx:name="ui.data.coregen.df@5880663f_ARCHIVE_LOCATION">/home/physics/my_IP/seven_seg_display</xilinx:tag>
@@ -224,6 +224,12 @@
         <xilinx:tag xilinx:name="ui.data.coregen.df@783302d5_ARCHIVE_LOCATION">/home/physics/my_IP/seven_seg_display</xilinx:tag>
         <xilinx:tag xilinx:name="ui.data.coregen.df@2c124730_ARCHIVE_LOCATION">/home/physics/my_IP/seven_seg_display</xilinx:tag>
         <xilinx:tag xilinx:name="ui.data.coregen.df@247a2c5f_ARCHIVE_LOCATION">/home/physics/my_IP/seven_seg_display</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.df@179fc41f_ARCHIVE_LOCATION">/home/physics/my_IP/seven_seg_display</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.df@64442484_ARCHIVE_LOCATION">/home/physics/my_IP/seven_seg_display</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.df@5bfa34f6_ARCHIVE_LOCATION">/home/physics/my_IP/seven_seg_display</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.df@23687f3a_ARCHIVE_LOCATION">/home/physics/my_IP/seven_seg_display</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.df@1eb52b2b_ARCHIVE_LOCATION">/home/physics/my_IP/seven_seg_display</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.df@1e4e11c8_ARCHIVE_LOCATION">/home/physics/my_IP/seven_seg_display</xilinx:tag>
       </xilinx:tags>
     </xilinx:coreExtensions>
     <xilinx:packagingInfo>
